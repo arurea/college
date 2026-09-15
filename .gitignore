@@ -4,6 +4,8 @@
 # Netbeans
 build/
 dist/
+nbbuild/
+nbdist/
 
 # Unnecessary thing (not a code)
 **/tugas
