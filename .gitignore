@@ -1,0 +1,11 @@
+# Java
+*.class
+
+# Netbeans
+build/
+dist/
+
+# Unnecessary thing (not a code)
+**/tugas
+**/materi
+**/note
