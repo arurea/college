@@ -24,6 +24,7 @@ A repository that I use to archive and gather my computer science college work. 
 - CUDA C++
 
 ## Repo Structure
+```text
 college/
 ├── semester-5/
 │   ├── grafika-komputer/
@@ -31,3 +32,4 @@ college/
 │   └── sistem-paralel-dan-terdistribusi/
 ├── .gitignore
 └── README.md
+```
