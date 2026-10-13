@@ -1,5 +1,5 @@
 # College
-A repository that I use to archive and gather my college work. Just start archiving at 5th Semester, so it wouldn't be as complete as complete as the others.
+A repository that I use to archive and gather my computer science college work. Just start archiving at 5th Semester, so it wouldn't be as complete as complete as the others.
 
 ## 5th Semester
 - Pemrograman Visual 
@@ -7,8 +7,9 @@ A repository that I use to archive and gather my college work. Just start archiv
 - Sistem Paralel dan Terdistribusi
 
 ## Tech
-### Language
+### Programming Language
 - Java
+- C/C++
 
 ### IDE
 - Visual Studio Code (primary)
@@ -17,3 +18,16 @@ A repository that I use to archive and gather my college work. Just start archiv
 ### Tools
 - Git
 - GitHub
+
+### GPU Computing
+- NVIDIA CUDA Toolkit
+- CUDA C++
+
+## Repo Structure
+college/
+├── semester-5/
+│   ├── grafika-komputer/
+│   ├── pemrograman-visual/
+│   └── sistem-paralel-dan-terdistribusi/
+├── .gitignore
+└── README.md
